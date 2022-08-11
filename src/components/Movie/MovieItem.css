@@ -1,0 +1,7 @@
+.movie-item img {
+  width: 100%;
+}
+
+.movie-item img:hover {
+  opacity: 0.5;
+}
